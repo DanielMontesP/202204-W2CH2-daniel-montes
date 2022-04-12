@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DanielMontesP/202204-W2CH2-daniel-montes#readme",
   "devDependencies": {
-    "husky": "^7.0.0"
+    "husky": "^7.0.0",
+    "jest": "^27.5.1"
   }
 }
