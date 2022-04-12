@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test:debug": "node --inspect node_modules/.bin/jest --runInBand",
     "test": "jest",
     "prepare": "husky install"
   },
